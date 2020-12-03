@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.645
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApp1", "WindowsApp1\WindowsApp1.vbproj", "{4A79BFCE-545A-48E2-A153-A04A70AB2D6F}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinApp_v02", "WinApp_v02\WinApp_v02.vbproj", "{4A79BFCE-545A-48E2-A153-A04A70AB2D6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
